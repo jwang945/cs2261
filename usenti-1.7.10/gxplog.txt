@@ -1,0 +1,25 @@
+STATUS: Validatating gr.
+WARNING:   No explicit src path.
+STATUS: Validation succeeded.
+STATUS: Started run at: 2020-03-18, 10:15:23
+STATUS: Validatating gr.
+STATUS: Validation succeeded.
+STATUS: Preparing data.
+STATUS: Work-DIB creation.
+STATUS: Work-DIB creation complete: 256x256@8.
+STATUS: Tile preparation.
+STATUS:   tiling to 256x256 tiles.
+STATUS:   tiling to 8x8 tiles.
+STATUS: Tile preparation complete.
+STATUS: Map preparation.
+STATUS:   Performing tile reduction: tiles, flip, palette
+STATUS: Creating new tileset.
+STATUS: Map preparation complete.
+STATUS: Graphics preparation.
+STATUS:   Bitpacking: 8 -> 4.
+STATUS: Graphics preparation complete.
+STATUS: Palette preparation.
+STATUS: Palette preparation complete.
+STATUS: Data preparation complete.
+STATUS: Export to C: mainscreen into Z:\Users\jetwang\Desktop\Georgia_Tech_Classes\Spring_2020\CS_2261\Homeworks\HW_05\mainscreen.c .
+STATUS: Run completed :).

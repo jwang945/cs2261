@@ -1,0 +1,1 @@
+The goal of the game is to dodge the falling bombs using the left, right, up, and down arrow keys. Press enter to start/pause. When paused, press backspace to restart. After winning or losing, press enter too restart. If you dodge 100 bombs, you win the game!
